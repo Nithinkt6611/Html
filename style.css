@@ -1,0 +1,49 @@
+h1{
+    background-color: green;
+    color: red;
+}
+h2{
+    background-color: yellow;
+    color: black;
+}
+#h5id{
+    background-color: blue;
+    color: red;
+}
+.p{
+    background-color: brown;
+    color: rgb(13, 13, 15);
+    font-family: 'Times New Roman', Times, serif;
+}
+table,th,td,tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+    
+
+}
+table{
+    margin: 5%;
+    width: 75%;
+    text-align: center;
+}
+tr,th,td{
+    padding: 2%;
+}
+th{
+    background-color: brown;
+}
+.row{
+    background-color: rgb(157, 147, 147);
+}
+img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    float: right;
+    opacity: .5;
+}
+div{
+    float: right;
+    width: 50%;
+    background-image: url("https://scx2.b-cdn.net/gfx/news/hires/2023/ocean-temperature.jpg");
+}
